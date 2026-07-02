@@ -1,4 +1,4 @@
 Enlace de la Plataforma
 
-https://cv-profesional-rho.vercel.app/perfil
+https://cv-profesional-rho.vercel.app/
 
